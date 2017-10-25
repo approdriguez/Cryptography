@@ -1,3 +1,3 @@
 # Cryptography
 
-RSA, Stream Cipher and some other cool stuff
+Some modular arithmetic functions for cryptography 
